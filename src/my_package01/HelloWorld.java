@@ -4,8 +4,8 @@ public class HelloWorld {
     public static void main(String[] args){
         System.out.println("Hello World!");
         System.out.println("hei, it's 2002");
-        System.out.println("second virsion");
-        System.out.println("My first hello world,let's do something interest");
+        System.out.println("second virsion and hot-fix branch");
+        System.out.println("My first hello world,let's do something intere st");
         int[][] a;
         a = new int[4][4];
         for(int i = 0; i < 4; i++){
