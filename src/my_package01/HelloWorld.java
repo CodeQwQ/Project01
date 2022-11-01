@@ -3,6 +3,8 @@ package my_package01;
 public class HelloWorld {
     public static void main(String[] args){
         System.out.println("Hello World!");
+        System.out.println("hei, it's 2002");
+        System.out.println("second virsion");
         System.out.println("My first hello world,let's do something interest");
         int[][] a;
         a = new int[4][4];
